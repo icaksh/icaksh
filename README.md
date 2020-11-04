@@ -17,7 +17,7 @@ Best Quotes:
   
 Checkout: [Homepage](https://icaksh.my.id) - [Blog](https://blog.icaksh.my.id) - [Portofolio](https://cv.icaksh.my.id) - [LinkedIn](https://linkedin.com/id/icaksh)  
   
-# My Stats
+## My Stats
 
 <table>
   <tbody>

@@ -22,7 +22,7 @@ Checkout: [Homepage](https://icaksh.my.id) - [Blog](https://blog.icaksh.my.id) -
 <table>
   <tbody>
     <tr>
-    <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=icaksh&repo=Python-Projects-Protek&title_color=add8e6&text_color=cfcfc4&show_icons=true&icon_color=add8e6&hide_border=true&theme=material-palenight" alt="Icaksh's Stats" />
+    <td align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=icaksh&repo=cinnabar-rest-api&title_color=add8e6&text_color=cfcfc4&show_icons=true&icon_color=add8e6&hide_border=true&theme=material-palenight" alt="Icaksh's Stats" />
         <br>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>

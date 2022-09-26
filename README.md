@@ -1,12 +1,12 @@
 ## Hi there, I'm Palguno Wicaksono
 <img align="right" src="https://cdn.icaksh.my.id/images/chibi/pp.png" alt="Cin" width=350px height=350px/>
 
-Hi, I'm a newbie developer.
+Hi, I'm a software engineer and a network engineer
 
-- 💻 Working on TAO Team VPN Server Management
+- 💙 Static Programming Language
 - 🌱 Learning Computer Engineering
 - 📚 Studying Informatics and Computer Engineering
-- 🔨 Creating many tools
+- ✅ Open Source, Linux, FreeBSD
 - 🗣 Pronounce he/him
 - 🎵 City Pop, Jazz, Blues, Country, Ballad, Pop, Dangdut
 
@@ -15,7 +15,7 @@ Best Quotes:
 "Siapa saja yang mencoba melawan, akan saya gebuki"  
      —*Soeharto*  
   
-Checkout: [Homepage](https://icaksh.my.id) - [Blog](https://blog.icaksh.my.id) - [Portofolio](https://cv.icaksh.my.id) - [LinkedIn](https://linkedin.com/id/icaksh)  
+Checkout: [Website](https://icaksh.my.id) - [Cinnabar API](https://cinnabar.icaksh.my.id) - [LinkedIn](https://linkedin.com/id/icaksh)  
   
 ## My Stats
 

@@ -6,7 +6,7 @@ Hi, I'm a software engineer and a network engineer
 - 💙 Static Programming Language
 - 🌱 Learning Computer Engineering
 - 📚 Studying Informatics and Computer Engineering
-- ✅ Open Source, Linux, FreeBSD
+- ✅ FreeBSD, Open Source, Linux
 - 🗣 Pronounce he/him
 - 🎵 City Pop, Jazz, Blues, Country, Ballad, Pop, Dangdut
 

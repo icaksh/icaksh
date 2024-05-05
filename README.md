@@ -1,5 +1,5 @@
 ## Hi there, I'm Palguno Wicaksono
-<img align="right" src="https://cdn.icaksh.my.id/images/chibi/pp.png" alt="Cin" width=350px height=350px/>
+<img align="right" src="chibi.png" alt="Cin" width=350px height=350px/>
 
 Hi, I'm a software engineer and a network engineer
 
